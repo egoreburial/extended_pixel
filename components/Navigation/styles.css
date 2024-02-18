@@ -1,0 +1,13 @@
+.navbar {
+    height: 56px;
+    width: 100%;
+    top: -60px;
+    position: fixed;
+    z-index: 1000;
+    box-shadow: 0 0 0.2em rgba(0, 0, 0, 0.5);
+    transition: all 0.4s linear;
+}
+
+.navbar.navbar--show {
+    top: 0;
+}
