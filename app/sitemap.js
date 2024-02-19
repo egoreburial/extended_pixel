@@ -1,19 +1,19 @@
 export default function sitemap() {
     return [
         {
-            url: 'https://generalsound.ae',
+            url: 'https://extended-pixel.vercel.app',
             lastModified: new Date(),
             changeFrequency: 'yearly',
             priority: 1,
         },
         {
-            url: 'https://generalsound.ae/en',
+            url: 'https://extended-pixel.vercel.app/en',
             lastModified: new Date(),
             changeFrequency: 'yearly',
             priority: 1,
         },
         {
-            url: 'https://generalsound.ae/ru',
+            url: 'https://extended-pixel.vercel.app/ru',
             lastModified: new Date(),
             changeFrequency: 'yearly',
             priority: 1,

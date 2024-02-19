@@ -5,6 +5,6 @@ export default function robots() {
             allow: '/',
             disallow: '/private/',
         },
-        sitemap: 'https://www.generalsound.ae/sitemap.xml',
+        sitemap: 'https://extended-pixel.vercel.app/sitemap.xml',
     }
 }

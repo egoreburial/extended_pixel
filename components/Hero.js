@@ -15,7 +15,7 @@ async function Hero() {
             id='hero'
             className="flex flex-col min-h-screen sm:min-h-full text-white bg-fixed bg-center bg-cover relative"
         >
-            <div className="absolute w-screen h-[calc(100%+32px)] sm:h-[calc(100%+112px)] z-[-1] inset-0">
+            <div className="absolute w-full h-[calc(100%+32px)] sm:h-[calc(100%+112px)] z-[-1] inset-0">
                 <Image
                     alt="Hero"
                     src="/background/hero.jpg"
